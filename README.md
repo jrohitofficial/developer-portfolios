@@ -29,6 +29,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Aashish Jha](https://aashishjha.com.np) [Software Engineer]
+- 
 - [Aayush Bharti](https://aayushbharti.in/) [Full-stack Developer]
 - [Aayush Kurup](https://aayushkurup.dev)
 - [Aayush Sood](https://www.aayushsood.com/)
@@ -791,6 +793,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [SDE@AWS EC2, Berlin]
 - [Robin Mastromari](http://robinmastromarino.com/) [UI/UX Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
+- [Rohit Jha](https://www.jrohit.com.np) [Software Engineer]
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland L. Taylor](http://rolandixor.pro)
